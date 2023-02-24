@@ -1,0 +1,15 @@
+/Users/Administrator/Developer/AsciiToImg/bin/Debug/net7.0/AsciiToImg
+/Users/Administrator/Developer/AsciiToImg/bin/Debug/net7.0/AsciiToImg.deps.json
+/Users/Administrator/Developer/AsciiToImg/bin/Debug/net7.0/AsciiToImg.runtimeconfig.json
+/Users/Administrator/Developer/AsciiToImg/bin/Debug/net7.0/AsciiToImg.dll
+/Users/Administrator/Developer/AsciiToImg/bin/Debug/net7.0/AsciiToImg.pdb
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.csproj.AssemblyReference.cache
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.AssemblyInfoInputs.cache
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.AssemblyInfo.cs
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.csproj.CoreCompileInputs.cache
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.dll
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/refint/AsciiToImg.dll
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.pdb
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/AsciiToImg.genruntimeconfig.cache
+/Users/Administrator/Developer/AsciiToImg/obj/Debug/net7.0/ref/AsciiToImg.dll
